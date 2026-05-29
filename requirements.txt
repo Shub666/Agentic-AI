@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+ipykernel
+python-dotenv
+langchain-openai
+langchain-groq
+pydantic
+arxiv==1.4.8
+wikipedia
+tavily
+bs4
